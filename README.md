@@ -6,4 +6,5 @@ BAIM MOHAMED JALAL,
   - Forward Selection
   - Backward Elimination
   - Recursive Feature Elimination.
+ ***
 ![wrapper_method](https://github.com/Jalalbaim/Wrapper-methods-for-feature-selection/assets/110737334/225fee35-286a-4739-9e26-53be2756d0bb)
